@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Chubb.Prueba.Const\Chubb.Prueba.Const.csproj" />
+    <ProjectReference Include="..\Chubb.Prueba.DTOs\Chubb.Prueba.DTOs.csproj" />
+    <ProjectReference Include="..\Chubb.Prueba.Entities\Chubb.Prueba.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
